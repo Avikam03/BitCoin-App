@@ -4,7 +4,7 @@ The purpose of this application is to provide regularly updated bitcoin prices t
 
 
 ## Screenshots
-![Image description](link-to-image)
+![Image description](https://www.pastepic.xyz/images/2020/04/02/Screenshot_20200402-225349_Am-I-Rich724dc34472577ae8.jpg)
 
 ## API
 
